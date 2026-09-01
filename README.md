@@ -28,11 +28,5 @@ PowerShell | 0.1%
 
 ## Last 5 Updated Repositories
 <!-- RECENT:START -->
-Repo | Stars | Forks | Updated
---- | --- | --- | ---
-[Automated-updates](https://github.com/hafilrazz/Automated-updates) | 3 | 2 | 2026-08-31
-[hafilrazz](https://github.com/hafilrazz/hafilrazz) | 1 | 1 | 2026-08-30
-[portshell](https://github.com/hafilrazz/portshell) | 3 | 0 | 2026-08-25
-[Dotmail](https://github.com/hafilrazz/Dotmail) | 2 | 1 | 2026-08-22
-[Bitconnect](https://github.com/hafilrazz/Bitconnect) | 131 | 4 | 2026-08-22
+
 <!-- RECENT:END -->
