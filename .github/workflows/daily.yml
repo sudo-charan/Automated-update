@@ -29,7 +29,7 @@ jobs:
       - name: Commit & push if changed
         run: |
           git config user.name "sudo-charan"
-          git config user.email "charanaikofficial@users.noreply.github.com"
+          git config user.email "charanaikofficial@gmail.com"
           if [[ -n "$(git status --porcelain)" ]]; then
             git add -A
             git commit -m "chore: daily update $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
